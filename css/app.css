@@ -1,0 +1,30 @@
+body.off{
+  background-color: #000;
+}
+body.on{
+  background-color: #fff;
+}
+#main{
+  position: absolute;
+  width: 100%;
+}
+
+section{
+  width:33%;
+  float: left;
+}
+
+hr{
+  float:none;
+  clear: both;
+}
+
+input[type="text"],
+input[type="button"]{
+  width:100%;
+}
+
+#container{
+  width:70%;
+  margin:auto;
+}

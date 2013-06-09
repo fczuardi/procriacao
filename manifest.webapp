@@ -1,0 +1,16 @@
+{
+  "version": "0.1",
+  "name": "Procriar",
+  "description": "Podem os smartphones procriar?",
+  "launch_path": "/app.html",
+  "icons": {
+    "128": "/img/icons/app_128.png"
+  },
+  "developer": {
+    "name": "mnmo : Fabricio and Mauricio Zuardi",
+    "url": "http://mnmo.com.br"
+  },
+  "fullscreen": "true",
+  "orientation": ["portrait"],
+  "installs_allowed_from": ["*"]
+}
